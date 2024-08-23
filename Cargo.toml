@@ -1,10 +1,10 @@
 [package]
-name = "login_manager"
+name = "login-manager"
 version = "0.1.0"
 edition = "2021"
 
 [workspace]
 
 [dependencies]
-auth_login_manager = { path = "auth" }
+auth-login-manager = { path = "auth" }
 clap = { version = "4.5.16", features = ["derive"] }
