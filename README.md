@@ -16,10 +16,12 @@ cargo run -- list -h
 
 ## Commands
 
-  `list `            List all users
-  `add`              Add a user
-  `delete`           Delete a user
-  `change-password`  Change a password
-  `help`             Print this message or the help of the given subcommand(s)
+| Command           | Description                                               |
+| ----------------- | --------------------------------------------------------- |
+| `list`            | List all users                                            |
+| `add`             | Add a user                                                | 
+| `delete`          | Delete a user                                             |
+| `change-password` | Change a password                                         |
+| `help`            | Print this message or the help of the given subcommand(s) |
 
 > This project demonstrates the learnings from the first week of the Ardan Labs: Ultimate Rust Foundations course.
