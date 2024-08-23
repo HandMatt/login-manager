@@ -24,4 +24,4 @@ cargo run -- list -h
 | `change-password` | Change a password                                         |
 | `help`            | Print this message or the help of the given subcommand(s) |
 
-> This project demonstrates the learnings from the first week of the Ardan Labs: Ultimate Rust Foundations course.
+> This project demonstrates the learnings from the first week of the [Ardan Labs: Ultimate Rust Foundations](https://www.ardanlabs.com/training/individual-on-demand/rust-bundle/) course.
